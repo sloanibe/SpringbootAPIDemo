@@ -39,3 +39,27 @@ build/
 .elasticbeanstalk/*
 !.elasticbeanstalk/*.cfg.yml
 !.elasticbeanstalk/*.global.yml
+
+# Elastic Beanstalk deployment files
+.ebignore
+aws/
+eb-engine.log
+eb-engine1.log
+deploylog
+recent_eb_logs.txt
+recent_logs
+verbosedeploy
+
+# Maven wrapper
+.mvn/
+mvnw
+mvnw.cmd
+
+# AWS CLI installer
+awscliv2.zip
+
+# Temporary or local files
+projectfiles
+
+# Keep .gitattributes
+# .gitattributes
