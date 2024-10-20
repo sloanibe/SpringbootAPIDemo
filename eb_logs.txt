@@ -1,0 +1,4 @@
+Retrieving logs...
+Logs were saved to /home/msloan/SpringBoot/testdemo1/demo/.elasticbeanstalk/logs/241019_173823
+Logs were saved to /home/msloan/SpringBoot/testdemo1/demo/.elasticbeanstalk/logs/241019_173823
+Updated symlink at /home/msloan/SpringBoot/testdemo1/demo/.elasticbeanstalk/logs/latest

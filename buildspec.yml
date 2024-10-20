@@ -8,7 +8,9 @@ phases:
     commands:
       - echo Build started on `date`
       - mvn clean package
+
 artifacts:
   files:
     - target/*.jar
-  name: myapp-$(date +%Y-%m-%d)
+    - Procfile
+  name: myapp-$(date +%Y-%m-%d)gi
